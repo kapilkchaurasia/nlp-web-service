@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.pytest_cache/
+
+# Jetbrains
+.idea/
+.keep
+
+# Environments
+venv/
+
+# mypy
+.mypy_cache/
+
+# macOS
+.DS_Store
